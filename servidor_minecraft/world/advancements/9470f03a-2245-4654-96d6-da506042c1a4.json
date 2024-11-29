@@ -1,0 +1,1446 @@
+{
+  "comforts:sleeping_bag_light_gray": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_cyan_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_black": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_blue": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_lime": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "beachparty:beachpartypalm_pressure_plate": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_compass": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "beachparty:beachpartybeach_hat": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "beachparty:beachpartybeach_towel": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/materials_and_you": {
+    "criteria": {
+      "crafted_book": "2024-08-27 03:03:01 +0000"
+    },
+    "done": true
+  },
+  "beachparty:palm_beam": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_lime_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "beachparty:palm_door": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:internal/starting_book": {
+    "criteria": {
+      "tick": "2024-08-27 03:03:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2024-11-14 07:13:09 +0000"
+    },
+    "done": true
+  },
+  "beachparty:palm_fence_gate": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2024-08-27 03:03:01 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_black": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_red_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_yellow": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/stone": {
+    "criteria": {
+      "has_stone": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cobweb": {
+    "criteria": {
+      "has_recipe": "2024-08-27 03:03:00 +0000",
+      "has_cobweb": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "buildersdelight:root": {
+    "criteria": {
+      "crafting_table": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "beachparty:palm_trapdoor": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2024-08-27 04:09:55 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_pink_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2024-08-27 05:45:33 +0000"
+    },
+    "done": false
+  },
+  "immersive_armors:recipes/misc/slime": {
+    "criteria": {
+      "has_item": "2024-11-14 10:50:34 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/jungle": {
+    "criteria": {
+      "has_jungle": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2024-11-14 07:07:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2024-08-27 03:54:14 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/spruce": {
+    "criteria": {
+      "has_spruce": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/oak": {
+    "criteria": {
+      "has_oak": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/hedge": {
+    "criteria": {
+      "has_birch": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/end": {
+    "criteria": {
+      "has_end_brick": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_purple": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "baked_potato": "2024-08-27 03:27:48 +0000",
+      "suspicious_stew": "2024-08-27 03:26:42 +0000",
+      "neapolitan:strawberry_scones": "2024-08-27 03:58:02 +0000",
+      "neapolitan:strawberries": "2024-08-27 05:18:14 +0000",
+      "cooked_beef": "2024-08-27 03:35:20 +0000",
+      "apple": "2024-08-27 04:27:15 +0000",
+      "pumpkin_pie": "2024-08-27 03:43:48 +0000",
+      "neapolitan:banana": "2024-11-14 10:26:27 +0000",
+      "bread": "2024-08-27 04:05:49 +0000",
+      "rotten_flesh": "2024-08-27 03:47:55 +0000",
+      "glow_berries": "2024-08-27 03:48:23 +0000",
+      "carrot": "2024-08-27 03:22:23 +0000"
+    },
+    "done": false
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2024-08-27 04:09:45 +0000"
+    },
+    "done": true
+  },
+  "beachparty:palm_fence": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "beachparty:sunglasses": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_lime": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "beachparty:beachpartyradio": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "beachparty:beachpartytable": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_pink": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "beachparty:beach_hat": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "beachparty:palm_stairs": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_blue_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2024-08-27 04:09:43 +0000"
+    },
+    "done": true
+  },
+  "beachparty:palm_button": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "beachparty:tiki_chair": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2024-08-27 03:31:07 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_magenta": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "beachparty:beachpartychair": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "beachparty:palm_tall_torch": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_red": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "wythers:world_explorer": {
+    "criteria": {
+      "wythers:ancient_moss_forest": "2024-11-14 10:29:08 +0000"
+    },
+    "done": false
+  },
+  "takesapillage:root": {
+    "criteria": {
+      "always": "2024-08-27 03:03:01 +0000"
+    },
+    "done": true
+  },
+  "beachparty:palm_pressure_plate": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "beachparty:beachpartycabinet": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-08-27 03:26:13 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_blue": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "woodland": "2024-08-27 04:57:32 +0000",
+      "shrubland": "2024-08-27 05:03:42 +0000",
+      "scrubland": "2024-08-27 04:58:53 +0000",
+      "marsh": "2024-11-14 10:36:18 +0000",
+      "clover_patch": "2024-08-27 04:54:46 +0000",
+      "mystic_grove": "2024-08-27 04:10:15 +0000",
+      "cold_desert": "2024-08-27 05:47:48 +0000",
+      "old_growth_woodland": "2024-08-27 04:58:39 +0000",
+      "wooded_scrubland": "2024-08-27 04:58:43 +0000",
+      "orchard": "2024-11-14 10:36:45 +0000",
+      "lavender_forest": "2024-11-14 11:21:36 +0000",
+      "mediterranean_forest": "2024-08-27 04:58:59 +0000",
+      "bog": "2024-11-14 10:39:12 +0000",
+      "coniferous_forest": "2024-11-14 10:38:21 +0000",
+      "redwood_forest": "2024-08-27 03:23:07 +0000",
+      "cherry_blossom_grove": "2024-08-27 03:13:38 +0000",
+      "highland_moor": "2024-08-27 04:56:49 +0000",
+      "seasonal_forest": "2024-11-14 10:38:16 +0000",
+      "rocky_rainforest": "2024-08-27 04:56:55 +0000",
+      "lavender_field": "2024-08-27 05:57:25 +0000",
+      "fir_clearing": "2024-11-14 10:39:56 +0000",
+      "pumpkin_patch": "2024-11-14 10:38:00 +0000",
+      "grassland": "2024-08-27 03:03:01 +0000",
+      "tundra": "2024-08-27 05:45:14 +0000",
+      "glowing_grotto": "2024-08-27 05:33:50 +0000",
+      "rainforest": "2024-08-27 04:56:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-08-27 03:19:22 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:misc/yellow_dye_from_buttercup": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:root": {
+    "criteria": {
+      "always": "2024-08-27 03:03:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2024-08-27 04:09:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-08-27 03:54:50 +0000"
+    },
+    "done": true
+  },
+  "beachparty:palm_boat": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-11-14 10:56:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_orange": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-08-27 03:03:22 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/nether": {
+    "criteria": {
+      "has_nether_brick": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_thornborn_towers": {
+    "criteria": {
+      "location0": "2024-08-27 04:06:29 +0000"
+    },
+    "done": true
+  },
+  "beachparty:bikini": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "earth": "2024-11-14 10:50:34 +0000"
+    },
+    "done": false
+  },
+  "mcwfences:recipes/crimson": {
+    "criteria": {
+      "has_crimson": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "beachparty:palm_chest_boat": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-08-27 03:11:33 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:mineshafts": {
+    "criteria": {
+      "in_mineshaft_taiga": "2024-08-27 03:17:53 +0000"
+    },
+    "done": false
+  },
+  "fossilsorigins:unearthed_secrets": {
+    "criteria": {
+      "unearthed_secrets": "2024-11-14 10:08:17 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/bamboo": {
+    "criteria": {
+      "has_bamboo": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/prismarine": {
+    "criteria": {
+      "has_qq": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_red": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "beachparty:beachpartypalm_tall_torch": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_black_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "beachparty:beachpartymini_fridge": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2024-08-27 04:09:45 +0000"
+    },
+    "done": true
+  },
+  "beachparty:beachpartypalm_sign": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_gray_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2024-08-27 06:35:42 +0000",
+      "minecraft:phantom": "2024-08-27 04:14:42 +0000",
+      "minecraft:cave_spider": "2024-08-27 03:28:41 +0000",
+      "minecraft:skeleton": "2024-08-27 04:07:15 +0000",
+      "minecraft:spider": "2024-08-27 03:33:11 +0000",
+      "minecraft:creeper": "2024-08-27 03:11:33 +0000",
+      "minecraft:stray": "2024-08-27 03:34:52 +0000",
+      "minecraft:silverfish": "2024-11-14 07:11:02 +0000",
+      "caverns_and_chasms:mime": "2024-11-14 10:54:09 +0000",
+      "minecraft:zombie": "2024-08-27 03:52:23 +0000",
+      "minecraft:zombie_villager": "2024-08-27 06:39:19 +0000"
+    },
+    "done": false
+  },
+  "mcwfences:recipes/quartz": {
+    "criteria": {
+      "has_qq": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "beachparty:beachpartypalm_door": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_lime_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "beachparty:beachpartypalm_fence_gate": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_orange_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:all_workstations_get": {
+    "criteria": {
+      "barrel": "2024-08-27 03:14:24 +0000",
+      "smoker": "2024-08-27 04:02:00 +0000",
+      "smithingtable": "2024-11-14 08:38:54 +0000",
+      "stonecutter": "2024-11-14 09:55:03 +0000"
+    },
+    "done": false
+  },
+  "comforts:sleeping_bag_light_gray_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2024-08-27 03:03:01 +0000"
+    },
+    "done": true
+  },
+  "beachparty:hammock": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-08-27 03:06:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-08-27 04:07:28 +0000"
+    },
+    "done": true
+  },
+  "beachparty:beachpartybikini": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2024-08-27 03:03:22 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_blue": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2024-08-27 03:09:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2024-08-27 04:53:20 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_gray": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2024-08-27 05:45:33 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2024-08-27 03:09:43 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:standard_from_custom": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_white": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "beachparty:palm_wood": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "beachparty:beachpartytiki_chair": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:the_bumblezone/teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2024-08-27 04:12:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "potato": "2024-11-14 09:59:55 +0000"
+    },
+    "done": false
+  },
+  "comforts:sleeping_bag_green_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/deepslate": {
+    "criteria": {
+      "has_deepslate": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:villages": {
+    "criteria": {
+      "in_village_jungle": "2024-11-14 10:19:44 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-08-27 04:07:28 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_black_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "beachparty:mini_fridge": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/sandstone": {
+    "criteria": {
+      "has_sand": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_blue_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mud_brick": {
+    "criteria": {
+      "has_qq": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "beachparty:palm_torch": {
+    "criteria": {
+      "has_bamboo": "2024-11-14 10:20:40 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mangrove": {
+    "criteria": {
+      "has_mangrove": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/warped": {
+    "criteria": {
+      "has_warped": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2024-08-27 03:03:01 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_cyan": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_purple": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-08-27 04:15:52 +0000"
+    },
+    "done": true
+  },
+  "beachparty:beachpartypalm_slab": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2024-08-27 03:04:59 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_purple_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2024-08-27 03:03:01 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_yellow": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-08-27 03:03:01 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2024-08-27 03:31:58 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_gray": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/birch": {
+    "criteria": {
+      "has_birch": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_orange_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_yellow_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2024-11-14 10:26:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2024-08-27 04:09:55 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_blue_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "beachparty:beach_towel": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "beachparty:beachpartybeach_chair": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "grassland": "2024-08-27 03:03:01 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_green": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:the_bumblezone/wiki": {
+    "criteria": {
+      "instant_granted": "2024-08-27 03:03:01 +0000"
+    },
+    "done": true
+  },
+  "beachparty:beachpartysunglasses": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_brown_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-08-27 03:19:16 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_gray_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_gray": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_brown": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "beachparty:beach_chair": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-08-27 03:09:53 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_greenwood_pub": {
+    "criteria": {
+      "location0": "2024-08-27 06:06:26 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-08-27 03:31:19 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_blue": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "comforts:rope_and_nail": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:immersive_weathering/crack_on": {
+    "criteria": {
+      "wax_off": "2024-08-27 03:38:57 +0000"
+    },
+    "done": true
+  },
+  "beachparty:lounge_chair": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-08-27 03:03:01 +0000"
+    },
+    "done": true
+  },
+  "beachparty:table": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_cracked_stone_bricks": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_red_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:creeper": "2024-08-27 03:11:33 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-08-27 05:05:44 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_magenta_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_magenta_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:the_bumblezone/root": {
+    "criteria": {
+      "instant_granted": "2024-08-27 03:03:01 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_brown_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2024-08-27 04:07:21 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/blackstone": {
+    "criteria": {
+      "has_blackstone": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "beachparty:beachpartypalm_trapdoor": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "beachparty:chair": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "beachparty:beachpartypalm_fence": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "environmental:marsh": "2024-11-14 10:37:52 +0000",
+      "minecraft:frozen_river": "2024-08-27 05:46:05 +0000",
+      "minecraft:birch_forest": "2024-08-27 03:08:58 +0000",
+      "minecraft:windswept_hills": "2024-11-14 07:01:08 +0000",
+      "minecraft:bamboo_jungle": "2024-11-14 10:28:15 +0000",
+      "minecraft:beach": "2024-08-27 04:55:26 +0000",
+      "minecraft:stony_peaks": "2024-08-27 04:57:42 +0000",
+      "minecraft:river": "2024-08-27 03:04:41 +0000",
+      "minecraft:snowy_plains": "2024-08-27 05:45:23 +0000",
+      "minecraft:stony_shore": "2024-08-27 04:55:22 +0000",
+      "environmental:pine_barrens": "2024-11-14 10:37:46 +0000",
+      "atmospheric:snowy_scrubland": "2024-08-27 05:49:24 +0000",
+      "autumnity:maple_forest": "2024-08-27 05:03:25 +0000",
+      "autumnity:pumpkin_fields": "2024-08-27 05:43:36 +0000",
+      "minecraft:cold_ocean": "2024-08-27 05:42:48 +0000",
+      "minecraft:forest": "2024-08-27 06:37:59 +0000",
+      "minecraft:ice_spikes": "2024-08-27 05:46:08 +0000",
+      "minecraft:frozen_ocean": "2024-08-27 05:45:50 +0000",
+      "minecraft:ocean": "2024-08-27 04:21:43 +0000",
+      "minecraft:snowy_beach": "2024-08-27 05:46:01 +0000",
+      "minecraft:deep_lukewarm_ocean": "2024-11-14 07:32:04 +0000",
+      "minecraft:old_growth_birch_forest": "2024-08-27 04:00:32 +0000",
+      "minecraft:windswept_gravelly_hills": "2024-08-27 05:43:42 +0000",
+      "minecraft:savanna": "2024-08-27 05:01:37 +0000",
+      "minecraft:plains": "2024-08-27 05:01:19 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:husbandry/sus_stew": {
+    "criteria": {
+      "stew": "2024-08-27 03:26:42 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_blue_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_gray_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "pizzacraft:root": {
+    "criteria": {
+      "tick": "2024-08-27 03:03:01 +0000"
+    },
+    "done": true
+  },
+  "immersive_aircraft:misc/aircraftery": {
+    "criteria": {
+      "has_item": "2024-08-27 03:06:15 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_cyan": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "dungeons_plus:adventure/find_tower": {
+    "criteria": {
+      "in_structure": "2024-11-14 07:04:38 +0000"
+    },
+    "done": true
+  },
+  "beachparty:beachpartypalm_torch": {
+    "criteria": {
+      "has_bamboo": "2024-11-14 10:20:40 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_purple_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "beachparty:cabinet": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "beachparty:palm_slab": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "beachparty:beachpartypalm_button": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_recipe": "2024-08-27 03:03:00 +0000",
+      "has_compass": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "beachparty:beachpartypalm_stairs": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_pink_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-11-14 11:09:14 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/acacia": {
+    "criteria": {
+      "has_acacia": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "beachparty:palm_floorboard": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_yellow_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "beachparty:beachpartypalm_planks": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2024-08-27 04:46:37 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2024-11-14 11:14:25 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-08-27 03:03:01 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2024-08-27 06:14:02 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_green_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_orange": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "beachparty:radio": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/dark_oak": {
+    "criteria": {
+      "has_dark_oak": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "beachparty:beachpartylounge_chair": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "lost_eye": "2024-11-14 11:14:25 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_pink": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_magenta": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2024-11-14 09:41:14 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_cyan_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_brown": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "beachparty:palm_planks": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2024-08-27 03:04:56 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_green": {
+    "criteria": {
+      "has_the_recipe": "2024-08-27 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-08-27 03:06:15 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_workstation_get": {
+    "criteria": {
+      "barrel": "2024-08-27 03:14:24 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:immersive_weathering/dirts": {
+    "criteria": {
+      "dirt": "2024-08-27 04:33:16 +0000"
+    },
+    "done": false
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2024-08-27 03:03:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-08-27 04:18:09 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3120
+}

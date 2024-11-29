@@ -1,0 +1,28 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "flag": "item_shelf",
+          "type": "supplementaries:flag"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          "000"
+        ],
+        "key": {
+          "0": {
+            "item": "pizzacraft:olive_slab"
+          }
+        },
+        "result": {
+          "item": "suppsquared:pizzacraft/item_shelf_olive",
+          "count": 2
+        }
+      }
+    }
+  ]
+}
